@@ -1,6 +1,6 @@
 # CoffeeCollab
 
-Welcome to CoffeeCollab – where innovation meets collaboration over a virtual cup of coffee! ☕💻🚀
+Welcome to CoffeeCollab – where innovation meets collaboration over a virtual cup of coffee!
 
 ## About Us
 
